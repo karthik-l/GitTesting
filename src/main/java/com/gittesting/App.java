@@ -2,10 +2,7 @@ package com.gittesting;
 
 public class App {
 	public static void main(String[] args) {
-<<<<<<< HEAD
 		System.out.println("Hello World! i am in c4 and this is a copy of c2");
-=======
 		System.out.println("Hello World! i am in c3 and this is a copy of c1");
->>>>>>> c3
 	}
 }
